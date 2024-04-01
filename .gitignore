@@ -2,6 +2,8 @@
 *.class
 *.xml
 *.properties
+nbproject/
+nbproject/private
 
 # Log file
 *.log
